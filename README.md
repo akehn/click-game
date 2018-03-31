@@ -1,5 +1,5 @@
 ## Try It
-[![Image not avaiable](https://media.giphy.com/media/3o6nV5YXpVm1ZFTGbS/giphy.gif)](https://sheltered-scrubland-55185.herokuapp.com/)
+
 
 ## Description
 A game to test a person's memory skill. This game is built in React which the application's UI is broken down into components, component state, and responding to user events.
@@ -15,7 +15,7 @@ Clicking a picture that hasn't being clicked already earns the user a point.
 
  Goal of the game is to beat the their own personal score!
 
- [![Image not avaiable](https://vignette.wikia.nocookie.net/looneytunes/images/e/e1/All.jpg/revision/latest/scale-to-width-down/260?cb=20150313020828)](https://sheltered-scrubland-55185.herokuapp.com/)
+
 
 ## Technologies Used:
 * HTML
