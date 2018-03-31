@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Crux Ansata",
+    "image": "http://3.bp.blogspot.com/-OykXHlTppxg/T0tD20JdshI/AAAAAAAAAZE/sQgmbfKCjtY/s1600/seth+egyptian+god+Symbol.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Eye of Horus",
+    "image": "http://mythologian.net/wp-content/uploads/2017/01/eye-of-ra-1024x950.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Menat",
+    "image": "http://mythologian.net/wp-content/uploads/2017/01/menat-symbol.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ouroboros",
+    "image": "http://fc06.deviantart.net/fs70/i/2010/135/a/1/Ouroboros_by_makusa_san.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Amenta",
+    "image": "http://mythologian.net/wp-content/uploads/2017/01/amenta-symbol.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Scarab",
+    "image": "http://media-cache-ec0.pinimg.com/736x/16/b4/3e/16b43eab3cc16cc933977544902d8497.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Djed Pillar",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/cd/80/cd/cd80cdbc87c64feb9061e49c1030b034.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Crook and the Flail – Hekha and Nekhakha",
+    "image": "http://mythologian.net/wp-content/uploads/2017/01/crook-flail-symbol-egyptian-914x1024.png"
+  },
+  {
+    "id": 9,
+    "name": "Tiet – The Knot of Isis",
+    "image": "https://www.egyptianmarketplace.com/image/cache/catalog/summitcollection/8135-tyet-knot-of-isis-800x800.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ka Symbol / Ka Spirit",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/10/13/55/10135582457af3fa621d47c4a3207ffa.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ba",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ba_bird_mirror.svg/475px-Ba_bird_mirror.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "Deshret",
+    "image": "http://mythologian.net/wp-content/uploads/2017/01/deshret-symbol-red-crown-of-lower-egypt.jpg"
+  }
+]

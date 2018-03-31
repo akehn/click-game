@@ -1,0 +1,11 @@
+button:hover{
+    background-color: #b7c7d0
+}
+
+button {
+    background: #fff;
+    border-radius: 2px;
+    margin-left: 1rem;
+    float: left;
+    display: inline-block;
+}

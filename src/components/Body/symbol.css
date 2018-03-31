@@ -1,0 +1,34 @@
+.cards {
+    background: #fff;
+    border-radius: 2px;
+    height: 125px;
+    margin: 0.5rem;
+    position: relative;
+    width: 125px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+button {
+    margin: 20px 0px 0px 0px;
+}
+
+button:hover {
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+    background-color: grey;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 3.5px 3.5px 3.5px 3.5px #888888;
+}
+
+.cards > .img-container {
+    width: 105px;
+    height: 105px;
+}
+
+.cards > .img-container >  img {
+    width: 105px;
+    height: 105px;
+}
+
