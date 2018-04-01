@@ -1,3 +1,5 @@
+![Image](public/img/clicky.png)
+
 ## Description
 A game to test a person's memory skill. This game is built in React which the application's UI is broken down into components, component state, and responding to user events.
 
