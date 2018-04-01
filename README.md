@@ -1,5 +1,5 @@
 ## Try It
-
+[![Image not avaiable](./public/images/clicky.png)](https://egyptian-clicky.herokuapp.com/)
 
 ## Description
 A game to test a person's memory skill. This game is built in React which the application's UI is broken down into components, component state, and responding to user events.
@@ -15,7 +15,7 @@ Clicking a picture that hasn't being clicked already earns the user a point.
 
  Goal of the game is to beat the their own personal score!
 
-
+(https://egyptian-clicky.herokuapp.com/)
 
 ## Technologies Used:
 * HTML
@@ -30,4 +30,4 @@ Clicking a picture that hasn't being clicked already earns the user a point.
   * react-scripts
 
 ## Author
-+ [Peter](https://github.com/ptpeck357)
++ [Anthony](https://github.com/akehn/click-game)
