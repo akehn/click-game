@@ -1,5 +1,6 @@
 ## Try It
 [![Image not avaiable](./public/images/clicky.png)](https://egyptian-clicky.herokuapp.com/)
+[![Image](./public/images/clicky.png?raw=true)]
 
 ## Description
 A game to test a person's memory skill. This game is built in React which the application's UI is broken down into components, component state, and responding to user events.
